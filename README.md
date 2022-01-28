@@ -73,7 +73,13 @@
 <h3 >Be on the Know of what i do:</h3>
 
 <!--START_SECTION:waka-->
- 
+```text
+JavaScript   31 hrs 44 mins  ███████████████████▒░░░░░   77.42 % 
+Python       6 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Markdown     53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+CSS          41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+HTML         36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+```
 <!--END_SECTION:waka-->
 
 <h3>Statistical Data :-</h3>
