@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Justice Evans</h1>
-<h3 align="center">Student at KCA University🌟.</h3>
+<h3 align="center">Student 🌟.</h3>
 
 <br>
 
+<div align="center">
+
+ [![total wakatime](https://wakatime.com/badge/user/b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c.svg)](https://wakatime.com/@b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c)
+
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="m3ndux" width="325" height="325" /></p>
 
+</div>
+  
 <div align="left">
   
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -61,6 +67,13 @@
       alt="mysql" width="40" height="40" /> </a> 
 
 <br>
+  
+<div align="center">
+  
+<h3 >Be on the Know of what i do:</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
@@ -71,9 +84,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3ndux&show_icons=true&locale=en"
     alt="m3ndux" /></p>
-
+</div>
 <br>
 
 ---
 
-[m3ndux](https://github.com/m3ndux)
+[M3ndux](https://github.com/m3ndux)
