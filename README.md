@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350" height="350" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="m3ndux" width="325" height="325" /></p>
 
 <div align="left">
   
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **justicevansmwema@gmail.com**
 
-- ⚡ Fun fact :- food and anime are the reasons to live.
+<!-- - ⚡ Fun fact :- food and anime are the reasons to live. -->
 </div>
 <br>
 
@@ -19,10 +19,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/justice-evans-mwema-41a981204/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="M3ndux" height="30" width="40" /></a>
   <a href="https://www.instagram.com/m3ndux/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="M3nd4x_" height="30" width="40" /></a>
   <a href="https://twitter.com/M3nd4x_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="M3nd4x_" height="30" width="40" /></a>
@@ -65,16 +65,12 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=m3ndux&show_icons=true&locale=en&layout=compact"
-    alt="adam-pw" /></p>
+    alt="m3ndux" /></p>
 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3ndux&show_icons=true&locale=en"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3ndux&" alt="adam-pw" /></p>
+    alt="m3ndux" /></p>
 
 <br>
 
