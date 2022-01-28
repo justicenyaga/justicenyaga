@@ -10,6 +10,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="m3ndux" width="325" height="325" style="border-radius: 40px 40px 40px 40px" /></p>
 
   <br>
+ 
 </div>
  
 <div align="left">
