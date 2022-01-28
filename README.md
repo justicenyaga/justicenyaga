@@ -5,12 +5,14 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+<div align="left">
+  
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **justicevansmwema@gmail.com**
 
 - ⚡ Fun fact :- food and anime are the reasons to live.
-
+</div>
 <br>
 
 <h3 align="left">Connect with me:</h3>
