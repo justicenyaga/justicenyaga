@@ -74,6 +74,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 21 January, 2022 - 27 January, 2022
+
 JavaScript   31 hrs 44 mins  ███████████████████▒░░░░░   77.42 % 
 Python       6 hrs 24 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
 Markdown     53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
