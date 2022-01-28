@@ -7,17 +7,19 @@
 
  [![total wakatime](https://wakatime.com/badge/user/b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c.svg)](https://wakatime.com/@b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="m3ndux" width="325" height="325" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="m3ndux" width="325" height="325" style="border-radius: 14px" /></p>
 
 </div>
-  
+ 
+ 
 <div align="left">
-  
+ 
+ 
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **justicevansmwema@gmail.com**
 
-<!-- - ⚡ Fun fact :- food and anime are the reasons to live. -->
+<!-- - ⚡ Fun fact :- dkhfkdjhf -->
 </div>
 <br>
 
