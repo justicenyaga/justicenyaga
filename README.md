@@ -88,16 +88,16 @@ HTML         36 mins         ▒░░░░░░░░░░░░░░░░
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=justiceevan5&show_icons=true&locale=en&layout=compact"
-    alt="justiceevan5" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=justiceevan&show_icons=true&locale=en&layout=compact"
+    alt="justiceevan" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justiceevan5&show_icons=true&locale=en"
-    alt="justiceevans5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justiceevan&show_icons=true&locale=en"
+    alt="justiceevan" /></p>
 </div>
 <br>
 
 ---
 
-[Mendux](https://github.com/justiceevan5)
+[Mendux](https://github.com/justiceevan)
