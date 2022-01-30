@@ -17,7 +17,7 @@
  
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **justicevansmwema@gmail.com**
+- 📫 How to reach me **justiceevansmwema@gmail.com**
 
 <!-- - ⚡ Fun fact :- dkhfkdjhf -->
 </div>
@@ -100,4 +100,4 @@ HTML         36 mins         ▒░░░░░░░░░░░░░░░░
 
 ---
 
-[Mendux](https://github.com/justiceevan)
+[Evans](https://github.com/justiceevan)
