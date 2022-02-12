@@ -76,7 +76,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
+Week: 05 February, 2022 - 11 February, 2022
 
 JavaScript   31 hrs 11 mins  █████████████████████░░░░   83.47 % 
 Python       4 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 % 
