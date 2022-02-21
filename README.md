@@ -76,13 +76,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
-
-JavaScript   31 hrs 11 mins  █████████████████████░░░░   83.47 % 
-Python       4 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-C            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-CSS          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
