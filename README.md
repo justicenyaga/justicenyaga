@@ -75,9 +75,18 @@
 <h3 >Be on the Know of what i do:</h3>
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+From: 20 February 2022 - To: 27 February 2022
+
+JavaScript   4 hrs 29 mins   █████████████████▓░░░░░░░   70.34 %
+Python       1 hr 16 mins    █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+CSS          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
+
 <!--END_SECTION:waka-->
 
 <h3>Statistical Data :-</h3>
