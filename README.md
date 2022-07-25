@@ -77,12 +77,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 July 2022 - To: 23 July 2022
+From: 17 July 2022 - To: 24 July 2022
 
-JavaScript   17 hrs 28 mins  █████████████████▒░░░░░░░   69.52 %
-Python       6 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.56 %
-Git          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+JavaScript   12 hrs 44 mins  ████████████████▒░░░░░░░░   65.64 %
+Python       5 hrs 10 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
+Git          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
