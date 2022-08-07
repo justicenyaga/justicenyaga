@@ -77,12 +77,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 July 2022 - To: 03 August 2022
-
-HTML         1 hr 8 mins     ████████████████████░░░░░   80.34 %
-JavaScript   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-CSS          7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-PHP          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
