@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justice Nyaga</h1>
-<h3 align="center">Software developer 🌟.</h3>
+<h3 align="center">Software Developement student 🌟.</h3>
 
 <br>
 
@@ -7,7 +7,7 @@
 
  [![total wakatime](https://wakatime.com/badge/user/b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c.svg)](https://wakatime.com/@b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="m3ndux" width="325" height="325" style="border-radius: 40px 40px 40px 40px" /></p>
+<p><img align="right" src="animation_500_kxa883sd.gif" alt="justiceevans" width="325" height="325" style="border-radius: 40px 40px 40px 40px" /></p>
  
 </div>
  
@@ -15,7 +15,7 @@
  
   <br>
  
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development and other programming tools
 
 - 📫 How to reach me **justiceevansmwema@gmail.com**
 
@@ -25,12 +25,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/justice-evans-mwema-41a981204/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/justice-nyaga" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="M3ndux" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/m3ndux/" target="blank"><img align="center"
+      alt="justice-nyaga" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_mendux_/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="M3nd4x_" height="30" width="40" /></a>
+      alt="_mendux_" height="30" width="40" /></a>
   <a href="https://twitter.com/M3nd4x_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="M3nd4x_" height="30" width="40" /></a>
