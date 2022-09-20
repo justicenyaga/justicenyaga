@@ -31,9 +31,9 @@
   <a href="https://www.instagram.com/_mendux_/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_mendux_" height="30" width="40" /></a>
-  <a href="https://twitter.com/M3nd4x_" target="blank"><img align="center"
+  <a href="https://twitter.com/justicenyaga" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="M3nd4x_" height="30" width="40" /></a>
+      alt="justicenyaga" height="30" width="40" /></a>
   
   
  
