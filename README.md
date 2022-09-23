@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Justice Nyaga</h1>
 <h3 align="center">Software Developement student 🌟.</h3>
 
+
 <br>
 
 <div align="center">
 
- [![total wakatime](https://wakatime.com/badge/user/b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c.svg)](https://wakatime.com/@b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c)
+ [![total wakatime](https://wakatime.com/badge/user/b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c.svg)](https://wakatime.com/@b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c) <img src='https://komarev.com/ghpvc/?username=justiceevan' alt='justiceevan' />
 
 <p><img align="right" src="animation_500_kxa883sd.gif" alt="justiceevans" width="325" height="325" style="border-radius: 40px 40px 40px 40px" /></p>
  
