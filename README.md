@@ -6,9 +6,9 @@
 
 <div align="center">
 
- [![total wakatime](https://wakatime.com/badge/user/b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c.svg)](https://wakatime.com/@b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c) <img src='https://komarev.com/ghpvc/?username=justiceevan' alt='justiceevan' />
+ [![total wakatime](https://wakatime.com/badge/user/b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c.svg)](https://wakatime.com/@b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c) <img src='https://komarev.com/ghpvc/?username=justiceevan' alt='justicenyaga' />
 
-<p><img align="right" src="animation_500_kxa883sd.gif" alt="justiceevans" width="325" height="325" style="border-radius: 40px 40px 40px 40px" /></p>
+<p><img align="right" src="animation_500_kxa883sd.gif" alt="justicenyaga" width="325" height="325" style="border-radius: 40px 40px 40px 40px" /></p>
  
 </div>
  
@@ -92,16 +92,16 @@ JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=justiceevan&show_icons=true&locale=en&layout=compact"
-    alt="justiceevan" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=justicenyaga&show_icons=true&locale=en&layout=compact"
+    alt="justicenyaga" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justiceevan&show_icons=true&locale=en"
-    alt="justiceevan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justicenyaga&show_icons=true&locale=en"
+    alt="justicenyaga" /></p>
 </div>
 <br>
 
 ---
 
-[Evans](https://github.com/justiceevan)
+[Evans](https://github.com/justicenyaga)
