@@ -78,13 +78,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 13 November 2022
+From: 07 November 2022 - To: 14 November 2022
 
-JavaScript   3 hrs 21 mins   ███████████████░░░░░░░░░░   59.78 %
-C#           1 hr 30 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
-Python       22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Markdown     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+C#           1 hr 5 mins     ██████████████████░░░░░░░   71.73 %
+JavaScript   25 mins         ███████░░░░░░░░░░░░░░░░░░   28.27 %
 ```
 
 <!--END_SECTION:waka-->
