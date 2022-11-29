@@ -78,9 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 November 2022 - To: 27 November 2022
+From: 21 November 2022 - To: 28 November 2022
 
-Python   56 mins         █████████████████████████   100.00 %
+C++      1 hr 1 min      ████████████▓░░░░░░░░░░░░   50.87 %
+Python   58 mins         ████████████░░░░░░░░░░░░░   48.29 %
+JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
