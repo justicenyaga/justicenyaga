@@ -78,7 +78,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 02 December 2022
+From: 27 November 2022 - To: 04 December 2022
 
 Python   5 hrs 23 mins   ████████████████▒░░░░░░░░   65.03 %
 C++      1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
