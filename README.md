@@ -78,11 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
+From: 05 December 2022 - To: 12 December 2022
 
-Python   6 hrs 28 mins   ███████████████▒░░░░░░░░░   60.98 %
-C#       4 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   39.00 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   6 hrs 28 mins   ████████████████████▓░░░░   82.50 %
+C#       1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
