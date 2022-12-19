@@ -78,11 +78,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
-
-Python   2 hrs 15 mins   ███████████████████████▒░   93.57 %
-C#       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
