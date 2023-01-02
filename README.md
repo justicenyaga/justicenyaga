@@ -78,10 +78,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
-
-Python   3 mins          ████████████████████░░░░░   80.12 %
-C        0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
