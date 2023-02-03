@@ -78,7 +78,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 January 2023 - To: 02 February 2023
+
+XML     13 mins         ███████████████████████▒░   93.58 %
+Other   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
 ```
 
 <!--END_SECTION:waka-->
