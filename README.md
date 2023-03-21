@@ -78,14 +78,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2023 - To: 19 March 2023
+From: 13 March 2023 - To: 20 March 2023
 
-Python           19 hrs 53 mins  ██████████████░░░░░░░░░░░   56.57 %
-JavaScript       13 hrs 31 mins  █████████▓░░░░░░░░░░░░░░░   38.46 %
-Git              44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Assembly         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JSON             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JavaScript       20 hrs 47 mins  ██████████████░░░░░░░░░░░   55.39 %
+Python           15 hrs 8 mins   ██████████░░░░░░░░░░░░░░░   40.33 %
+Git              36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Assembly         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+JSON             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
