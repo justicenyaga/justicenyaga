@@ -78,12 +78,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2023 - To: 06 April 2023
+From: 31 March 2023 - To: 07 April 2023
 
-Python       56 mins         ████████████░░░░░░░░░░░░░   48.15 %
-JavaScript   48 mins         ██████████▒░░░░░░░░░░░░░░   41.07 %
-Assembly     11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Python       56 mins         ██████████████░░░░░░░░░░░   55.36 %
+JavaScript   45 mins         ███████████░░░░░░░░░░░░░░   44.64 %
 ```
 
 <!--END_SECTION:waka-->
