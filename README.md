@@ -78,9 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
-No activity tracked
+Python       4 hrs 6 mins    ████████████████████▓░░░░   82.64 %
+Bash         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Other        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->
