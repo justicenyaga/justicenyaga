@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justice Nyaga</h1>
-<h3 align="center">Software Developer🌟.</h3>
+<h3 align="center">A Software Engineer.</h3>
 
 
 <br>
