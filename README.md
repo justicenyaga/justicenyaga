@@ -6,7 +6,7 @@
 
 <div align="center">
 
- [![total wakatime](https://wakatime.com/badge/user/b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c.svg)](https://wakatime.com/@b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c) <img src='https://komarev.com/ghpvc/?username=justiceevan' alt='justicenyaga' />
+ [![total wakatime](https://wakatime.com/badge/user/b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c.svg)](https://wakatime.com/@b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c)
 
 <p><img align="right" src="animation_500_kxa883sd.gif" alt="justicenyaga" width="325" height="325" style="border-radius: 40px 40px 40px 40px" /></p>
  
@@ -33,7 +33,6 @@
 </div>
 <br>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/justice-nyaga" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -44,14 +43,12 @@
   <a href="https://twitter.com/justicenyaga" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="justicenyaga" height="30" width="40" /></a>
-  
-  
  
 </p>
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
@@ -95,7 +92,7 @@
   
 <div align="center">
   
-<h3 >Be on the Know of what i do:</h3>
+<h3 >Weekly Code Time:</h3>
 
 <!--START_SECTION:waka-->
 
@@ -112,18 +109,7 @@ Bash         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=justicenyaga&show_icons=true&locale=en&layout=compact"
-    alt="justicenyaga" /></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justicenyaga&show_icons=true&locale=en"
-    alt="justicenyaga" /></p>
-</div>
-<br>
-
----
-
-[Justice](https://github.com/justicenyaga)
+<<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=justicenyaga&count_private=true&show_icons=true&theme=dark" alt="Justice Nyaga" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justicenyaga&hide=html&langs_count=8&layout=compact&theme=dark" alt="Justice Nyaga" height="165" />
+ </p>
