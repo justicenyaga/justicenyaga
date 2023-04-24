@@ -110,6 +110,6 @@ Bash         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=justicenyaga&count_private=true&show_icons=true&theme=dark" alt="Justice Nyaga" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justicenyaga&hide=html&langs_count=8&layout=compact&theme=dark" alt="Justice Nyaga" height="165" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=justicenyaga&count_private=true&show_icons=true&theme=dark" alt="Justice Nyaga" width="420"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=justicenyaga&hide=html&langs_count=8&layout=compact&theme=dark" alt="Justice Nyaga" height="165" />
  </p>
