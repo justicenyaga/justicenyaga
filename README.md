@@ -18,7 +18,7 @@
  
 - 💥 Interests in Go, Assembly, Kernel Development & Linux programming.
  
-- 📆 Familiar with AWS, Digital Ocean & Heroku cloud😏
+- 📆 Familiar with Azure, AWS, DigitalOcean & Heroku cloud😏
 
 - ✨ Other details are at [my linkedIn profile](https://linkedIn.com/in/justice-nyaga) 
  
