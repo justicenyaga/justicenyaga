@@ -97,13 +97,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2023 - To: 24 July 2023
+From: 18 July 2023 - To: 25 July 2023
 
-JavaScript   3 hrs 9 mins    █████████████████████▓░░░   86.87 %
-HTML         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-Python       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Git          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
