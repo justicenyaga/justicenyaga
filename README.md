@@ -97,9 +97,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2023 - To: 10 August 2023
+From: 04 August 2023 - To: 11 August 2023
 
-JavaScript   1 hr 44 mins    █████████████████████████   100.00 %
+JavaScript   2 hrs 8 mins    ████████████████████████▒   97.93 %
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
