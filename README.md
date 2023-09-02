@@ -97,12 +97,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-JavaScript       2 hrs 10 mins   ███████████████████░░░░░░   76.66 %
-Python           37 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-Bash             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
