@@ -97,10 +97,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
-JavaScript   4 hrs 15 mins   ██████████████████░░░░░░░   72.61 %
-Python       1 hr 36 mins    ███████░░░░░░░░░░░░░░░░░░   27.37 %
+JavaScript   4 hrs 9 mins    █████████████████▓░░░░░░░   70.10 %
+Python       1 hr 46 mins    ███████▒░░░░░░░░░░░░░░░░░   29.88 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
