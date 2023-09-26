@@ -97,11 +97,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2023 - To: 24 September 2023
+From: 18 September 2023 - To: 25 September 2023
 
-JavaScript   3 hrs 22 mins   ██████████████████▓░░░░░░   74.97 %
-Python       1 hr 7 mins     ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python       3 mins          ███████████████████████░░   92.39 %
+JavaScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
 ```
 
 <!--END_SECTION:waka-->
