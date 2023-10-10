@@ -97,10 +97,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Python       3 mins          █████████████░░░░░░░░░░░░   52.61 %
-JavaScript   3 mins          ████████████░░░░░░░░░░░░░   47.39 %
+JavaScript   1 hr 5 mins     ██████████████████▒░░░░░░   72.84 %
+HTML         20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+Python       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
 ```
 
 <!--END_SECTION:waka-->
