@@ -97,7 +97,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
 HTML     30 mins         ███████████░░░░░░░░░░░░░░   43.74 %
 Python   24 mins         ████████▓░░░░░░░░░░░░░░░░   34.96 %
