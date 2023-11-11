@@ -97,13 +97,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2023 - To: 08 November 2023
+From: 02 November 2023 - To: 09 November 2023
 
-JavaScript   35 hrs 7 mins   ████████████████████▓░░░░   82.50 %
-Python       5 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-JSON         55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Bash         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JavaScript   36 hrs 17 mins  ██████████████████████▒░░   89.48 %
+Python       2 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+JSON         57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Git          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
