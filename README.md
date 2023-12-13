@@ -97,9 +97,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 10 December 2023
+From: 04 December 2023 - To: 11 December 2023
 
-No activity tracked
+JavaScript   3 hrs 20 mins   ████████████████████████░   95.54 %
+JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
