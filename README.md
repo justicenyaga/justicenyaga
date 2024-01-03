@@ -97,13 +97,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2023 - To: 01 January 2024
+From: 26 December 2023 - To: 02 January 2024
 
-JavaScript   47 hrs 56 mins  ████████████████████████▒   97.42 %
-JSON         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Other        14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Pug          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JavaScript   47 hrs 47 mins  ████████████████████████░   96.61 %
+Other        54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+JSON         36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 Vim Script   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
