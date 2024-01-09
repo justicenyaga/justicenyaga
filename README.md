@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Justice Nyaga</h1>
 <h3 align="center">A Software Engineer.</h3>
 
-
 <br>
 
 <div align="center">
 
- [![total wakatime](https://wakatime.com/badge/user/b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c.svg)](https://wakatime.com/@b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c)
+[![total wakatime](https://wakatime.com/badge/user/b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c.svg)](https://wakatime.com/@b9aa11ce-8286-46d9-bd5c-0f9e2c6cdf6c)
 
 <p><img align="right" src="animation_500_kxa883sd.gif" alt="justicenyaga" width="275" height="275" style="border-radius: 50px 50px 50px 50px" /></p>
  
@@ -18,16 +17,16 @@
  
 - 💥 Interests in Go, Assembly, Kernel Development & Linux programming.
  
-- 📆 Familiar with Azure, AWS, DigitalOcean & Heroku cloud😏
+- 📆 Familiar with Azure, DigitalOcean, AWS & Heroku cloud😏
 
-- ✨ Other details are at [my linkedIn profile](https://linkedIn.com/in/justice-nyaga) 
- 
-- 🔭 I’m currently working on Django, React & React Native projects.
- 
+- ✨ Other details are at [my linkedIn profile](https://linkedIn.com/in/justice-nyaga)
+
+- 🔭 I’m currently working on Django, Node.js, React & React Native projects.
+
 - 👨‍💻 All of my projects are available at [https://github.com/justicenyaga](https://github.com/justicenyaga)
- 
+
 - 🗣️ I speak English and Swahili.
- 
+
 - 📫 How to reach me **justiceevansmwema@gmail.com**
 
 </div>
@@ -49,12 +48,19 @@
 <br>
 
 ### Languages and Tools:
+
 <p align="center">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="python"
+      width="40" height="40" /> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="python"
+      width="40" height="40" /> </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="python"
       width="40" height="40" /> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"       height="40" /> </a>
@@ -83,10 +89,12 @@
  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql" width="40" height="40" /> </a> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="postgresql" width="40" height="40" /> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker" width="40" height="40" /> </a>
- 
 
 <br>
   
