@@ -1,0 +1,38 @@
+name: Justice Nyaga
+
+description: Software Engineer from Kenya
+
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
+footer-links:
+  email: justiceevansmwema@gmail.com
+  github: justicenyaga/justicenyaga
+  linkedin: /in/justice-nyaga
+  twitter: justicenyaga
+
+url: https://justicenyaga.me
+
+baseurl: "/justicenyaga"
+
+permalink: /:title/
+
+version: v1.2.0
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: "highlight"
+
+sass:
+  style: :expanded
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CNAME
