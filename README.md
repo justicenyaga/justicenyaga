@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 05 February 2024
+From: 30 January 2024 - To: 06 February 2024
 
-Markdown       13 hrs 42 mins  ███████████▓░░░░░░░░░░░░░   46.14 %
-TOML           4 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
-Python         2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-Lua            1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-YAML           1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Markdown       11 hrs 31 mins  ███████████▓░░░░░░░░░░░░░   47.13 %
+Python         2 hrs 58 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+TOML           2 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+Go             2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Lua            1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
 ```
 
 <!--END_SECTION:waka-->
