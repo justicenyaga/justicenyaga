@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2024 - To: 10 February 2024
+From: 04 February 2024 - To: 11 February 2024
 
-Go             11 hrs 52 mins  ██████████▒░░░░░░░░░░░░░░   41.60 %
-Markdown       9 hrs 59 mins   ████████▓░░░░░░░░░░░░░░░░   35.03 %
-Lua            2 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-Java           1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Python         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Markdown       13 hrs 23 mins  ██████████▒░░░░░░░░░░░░░░   41.67 %
+Go             11 hrs 52 mins  █████████▒░░░░░░░░░░░░░░░   36.94 %
+Java           3 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Lua            1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+TOML           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
