@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2024 - To: 14 March 2024
+From: 08 March 2024 - To: 15 March 2024
 
-JavaScript      22 hrs 57 mins  ████████████████▒░░░░░░░░   65.41 %
-Lua             4 hrs 44 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-JSON            1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Markdown        1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-gitignore       50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+JavaScript      24 hrs 49 mins  ███████████████▓░░░░░░░░░   62.80 %
+Lua             3 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Markdown        2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+JSON            2 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Other           1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
