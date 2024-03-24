@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2024 - To: 22 March 2024
+From: 16 March 2024 - To: 23 March 2024
 
-Lua           21 hrs 21 mins  ██████████▒░░░░░░░░░░░░░░   41.95 %
-JavaScript    11 hrs 44 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
-Markdown      4 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-Go            3 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-HTML          2 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Lua           16 hrs 19 mins  █████████▒░░░░░░░░░░░░░░░   37.36 %
+JavaScript    12 hrs 26 mins  ███████░░░░░░░░░░░░░░░░░░   28.50 %
+Go            3 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Markdown      2 hrs 59 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+HTML          2 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
 ```
 
 <!--END_SECTION:waka-->
