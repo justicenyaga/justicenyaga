@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2024 - To: 20 May 2024
+From: 14 May 2024 - To: 21 May 2024
 
-Bash         17 hrs 41 mins  ████████████████▓░░░░░░░░   67.08 %
-Go           3 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-JavaScript   2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-Markdown     1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-i3config     1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Go           8 hrs 34 mins   █████████▓░░░░░░░░░░░░░░░   38.52 %
+Bash         7 hrs 11 mins   ████████░░░░░░░░░░░░░░░░░   32.31 %
+JavaScript   3 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+i3config     1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Markdown     1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
