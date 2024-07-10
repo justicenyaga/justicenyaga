@@ -105,12 +105,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2024 - To: 08 July 2024
+From: 02 July 2024 - To: 09 July 2024
 
-JavaScript     4 hrs 45 mins   █████████████████████████   99.81 %
-Git            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Image (jpeg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   1 hr 41 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
