@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2024 - To: 14 July 2024
+From: 08 July 2024 - To: 15 July 2024
 
-JavaScript   7 hrs 47 mins   ███████████████░░░░░░░░░░   60.54 %
-Text         2 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   19.44 %
-YAML         1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-i3config     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-TypeScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+JavaScript   8 hrs 36 mins   ████████████▒░░░░░░░░░░░░   48.86 %
+Lua          3 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+Text         2 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
+YAML         1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+TypeScript   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
