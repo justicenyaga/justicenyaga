@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2024 - To: 20 August 2024
+From: 14 August 2024 - To: 21 August 2024
 
-conf           10 hrs 18 mins  ███████░░░░░░░░░░░░░░░░░░   28.11 %
-Lua            5 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-Python         4 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-Bash           3 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-Markdown       2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+conf           8 hrs 46 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
+Lua            5 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+Python         5 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Bash           3 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Markdown       2 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
 ```
 
 <!--END_SECTION:waka-->
