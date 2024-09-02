@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
-JavaScript   8 hrs 44 mins   ████████████▒░░░░░░░░░░░░   49.47 %
-Markdown     4 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.17 %
-Lua          2 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-conf         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-i3config     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+JavaScript   8 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   36.62 %
+Markdown     7 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░░   29.70 %
+Lua          2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Docker       2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+conf         1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 ```
 
 <!--END_SECTION:waka-->
