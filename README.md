@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2024 - To: 07 September 2024
+From: 01 September 2024 - To: 08 September 2024
 
-Markdown     3 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
-Lua          2 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-mysql        2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-Docker       2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
-dbout        1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+YAML         4 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
+mysql        2 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+Lua          2 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+dbout        1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+SQL          1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
 ```
 
 <!--END_SECTION:waka-->
