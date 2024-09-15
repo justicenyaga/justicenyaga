@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2024 - To: 13 September 2024
+From: 07 September 2024 - To: 14 September 2024
 
-Markdown     10 hrs 53 mins  ███████▓░░░░░░░░░░░░░░░░░   30.59 %
-Lua          6 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.59 %
-YAML         4 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-mysql        2 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Bash         2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Markdown     12 hrs 46 mins  ████████▓░░░░░░░░░░░░░░░░   34.71 %
+Lua          7 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   19.43 %
+YAML         4 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Bash         2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+sh           2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
 ```
 
 <!--END_SECTION:waka-->
