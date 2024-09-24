@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2024 - To: 22 September 2024
+From: 16 September 2024 - To: 23 September 2024
 
-conf                       3 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   29.56 %
-Markdown                   2 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
-mysql                      1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Nginx configuration file   53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Bash                       53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Markdown                   6 hrs 23 mins   ████████████░░░░░░░░░░░░░   47.71 %
+Lua                        1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Nginx configuration file   1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+zsh                        50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Bash                       46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 ```
 
 <!--END_SECTION:waka-->
