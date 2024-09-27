@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2024 - To: 25 September 2024
+From: 19 September 2024 - To: 26 September 2024
 
-Lua                        8 hrs 56 mins   ███████████▒░░░░░░░░░░░░░   44.73 %
-Markdown                   6 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   31.82 %
-Nginx configuration file   1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-zsh                        50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-JSON                       38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Lua                        10 hrs 45 mins  ██████████▓░░░░░░░░░░░░░░   42.21 %
+Markdown                   7 hrs 39 mins   ███████▓░░░░░░░░░░░░░░░░░   30.02 %
+Nginx configuration file   1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+JavaScript                 53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+zsh                        50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
