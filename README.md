@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2024 - To: 03 October 2024
+From: 27 September 2024 - To: 04 October 2024
 
-Markdown                   3 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   28.10 %
-Nginx configuration file   1 hr 38 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-YAML                       1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-mysql                      1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-dbout                      58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+Bash                       4 hrs 53 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
+YAML                       4 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+Docker                     2 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+JSON                       1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+mysql                      1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
 ```
 
 <!--END_SECTION:waka-->
