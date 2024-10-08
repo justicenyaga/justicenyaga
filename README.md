@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-TOML                       5 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
-Bash                       4 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-YAML                       3 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Docker                     2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Other                      1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+TOML                       6 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+Bash                       4 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+YAML                       3 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Docker                     2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+JSON                       2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
 ```
 
 <!--END_SECTION:waka-->
