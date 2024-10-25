@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2024 - To: 23 October 2024
+From: 17 October 2024 - To: 24 October 2024
 
-Lua            14 hrs 53 mins  █████████▒░░░░░░░░░░░░░░░   37.17 %
-Go             14 hrs 39 mins  █████████░░░░░░░░░░░░░░░░   36.58 %
-JavaScript     4 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-conf           1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Other          1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Lua            15 hrs 21 mins  ██████████▒░░░░░░░░░░░░░░   41.87 %
+Go             9 hrs 42 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
+Markdown       3 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+JavaScript     2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+conf           1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->
