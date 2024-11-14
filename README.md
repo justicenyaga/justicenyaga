@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 12 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-Lua           4 hrs 50 mins   █████████████████░░░░░░░░   67.88 %
-Text          24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-JavaScript    23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-JSON          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-TypeScript    14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Lua           5 hrs           █████████████████░░░░░░░░   67.59 %
+Text          24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+JavaScript    24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+TypeScript    19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+JSON          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
