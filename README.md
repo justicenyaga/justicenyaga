@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2024 - To: 03 January 2025
+From: 28 December 2024 - To: 04 January 2025
 
-Lua           8 hrs 57 mins   █████████████████▒░░░░░░░   69.69 %
-TypeScript    2 hrs 48 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-tmux          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-JSON          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-JavaScript    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Lua           13 hrs 32 mins  ██████████████▓░░░░░░░░░░   58.28 %
+TypeScript    7 hrs 19 mins   ████████░░░░░░░░░░░░░░░░░   31.55 %
+JavaScript    50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+JSON          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+tmux          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
