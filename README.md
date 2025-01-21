@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2025 - To: 19 January 2025
+From: 13 January 2025 - To: 20 January 2025
 
-TypeScript        4 hrs 14 mins   ███████████████████░░░░░░   75.36 %
-Docker            38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
-sshconfig         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Text              9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Other             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+TypeScript   9 hrs 37 mins   █████████████████████░░░░   83.66 %
+Docker       38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+HTML         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+sshconfig    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
