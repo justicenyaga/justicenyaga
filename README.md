@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2025 - To: 06 February 2025
+From: 31 January 2025 - To: 07 February 2025
 
-Go              6 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.12 %
-TypeScript      5 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   32.96 %
-Lua             2 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
-PowerShell      1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-JavaScript      31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+TypeScript      6 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.11 %
+Go              6 hrs 25 mins   ████████▓░░░░░░░░░░░░░░░░   34.83 %
+Lua             2 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+PowerShell      1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+JavaScript      31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
