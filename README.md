@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2025 - To: 14 February 2025
+From: 08 February 2025 - To: 15 February 2025
 
-TypeScript      7 hrs 38 mins   ██████████████████████▓░░   90.94 %
-Go              27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Lua             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-DiffviewFiles   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Markdown        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   6 hrs 45 mins   ███████████████▓░░░░░░░░░   62.95 %
+Go           3 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   28.97 %
+Lua          48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+gosum        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
