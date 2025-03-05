@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2025 - To: 03 March 2025
+From: 25 February 2025 - To: 04 March 2025
 
-Java              12 hrs 19 mins  ██████████████░░░░░░░░░░░   56.45 %
-Lua               3 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-XML               2 hrs 49 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-JavaScript        1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Java Properties   41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Java                16 hrs 18 mins  ████████████████░░░░░░░░░   63.87 %
+XML                 2 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+Lua                 2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+JavaScript          1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+textmate            51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
