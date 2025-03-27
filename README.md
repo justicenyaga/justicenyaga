@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2025 - To: 25 March 2025
+From: 19 March 2025 - To: 26 March 2025
 
-Java              10 hrs 25 mins  ████████▒░░░░░░░░░░░░░░░░   33.58 %
-CSV               8 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
-PLSQL             3 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-JavaScript        3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Lua               2 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Java              13 hrs 13 mins  ███████████▒░░░░░░░░░░░░░   45.44 %
+CSV               5 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   20.25 %
+JavaScript        3 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Lua               2 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+PLSQL             1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
 ```
 
 <!--END_SECTION:waka-->
