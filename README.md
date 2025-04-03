@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2025 - To: 01 April 2025
+From: 26 March 2025 - To: 02 April 2025
 
-Java              23 hrs 1 min    ████████████████████░░░░░   79.43 %
-Lua               2 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-dbout             1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Java Properties   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-PLSQL             30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Java              21 hrs 39 mins  ██████████████████▓░░░░░░   75.11 %
+Lua               2 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+dbout             1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+TypeScript        1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Java Properties   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
