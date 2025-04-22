@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2025 - To: 19 April 2025
+From: 13 April 2025 - To: 20 April 2025
 
-Java                              12 hrs 8 mins   ███████████▓░░░░░░░░░░░░░   47.05 %
-Lua                               6 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
-HTTP                              1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-TypeScript                        1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-PLSQL                             39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Java                              12 hrs 19 mins  ██████████░░░░░░░░░░░░░░░   39.59 %
+Lua                               5 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
+HTTP                              5 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+TypeScript                        1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+json.kulala_ui                    56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
