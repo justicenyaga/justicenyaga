@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2025 - To: 25 April 2025
+From: 20 April 2025 - To: 27 April 2025
 
-Lua                               8 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.51 %
-Dart                              7 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-HTTP                              6 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
-TypeScript                        4 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-Java                              2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Dart             7 hrs 41 mins   █████████▓░░░░░░░░░░░░░░░   38.01 %
+Lua              4 hrs 59 mins   ██████░░░░░░░░░░░░░░░░░░░   24.64 %
+TypeScript       2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
+Java             2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+HTTP             1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
 ```
 
 <!--END_SECTION:waka-->
