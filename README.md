@@ -21,7 +21,7 @@
 
 - ✨ Other details are at [my linkedIn profile](https://linkedIn.com/in/justice-nyaga)
 
-- 🔭 I’m currently working on Golang, Spring Boot and React projects.
+- 🔭 I’m currently working on Golang, Spring Boot, Flutter and React projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/justicenyaga](https://github.com/justicenyaga)
 
