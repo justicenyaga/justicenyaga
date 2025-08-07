@@ -105,9 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2025 - To: 04 August 2025
+From: 29 July 2025 - To: 05 August 2025
 
-Dart   14 hrs 54 mins  █████████████████████████   100.00 %
+Dart       14 hrs 27 mins  ████████████████████████▓   98.58 %
+hyprlang   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Lua        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
