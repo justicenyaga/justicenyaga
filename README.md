@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2025 - To: 01 September 2025
+From: 26 August 2025 - To: 02 September 2025
 
-Dart              17 hrs 6 mins   ███████████████████████░░   92.11 %
-YAML              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-Docker            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-hyprlang          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Java Properties   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Dart              19 hrs 55 mins  █████████████████████░░░░   84.52 %
+Lua               1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Text              38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+YAML              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Docker            20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
