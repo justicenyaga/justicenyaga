@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2025 - To: 07 October 2025
+From: 01 October 2025 - To: 08 October 2025
 
-Dart              12 hrs 25 mins  ████████████████████████▓   98.82 %
-SQL               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Dart              11 hrs 9 mins   ████████████████████████▓   98.78 %
+SQL               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
