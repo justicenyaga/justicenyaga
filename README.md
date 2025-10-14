@@ -105,9 +105,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2025 - To: 11 October 2025
+From: 05 October 2025 - To: 12 October 2025
 
-Dart              15 hrs 52 mins  ████████████████████████▓   99.02 %
+Dart              16 hrs 7 mins   ████████████████████████▓   99.04 %
 SQL               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
