@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2025 - To: 12 November 2025
+From: 07 November 2025 - To: 14 November 2025
 
-Dart          17 hrs 22 mins  █████████████████████▓░░░   86.93 %
-Markdown      1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Lua           1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-gitrebase     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Text          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Dart          14 hrs 23 mins  █████████████████████▒░░░   85.19 %
+Markdown      1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Lua           57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+gitrebase     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Bash          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
