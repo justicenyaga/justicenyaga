@@ -105,7 +105,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2025 - To: 13 December 2025
+From: 07 December 2025 - To: 14 December 2025
 
 Dart       7 hrs 48 mins   ██████████████████████▓░░   91.24 %
 Lua        29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
