@@ -105,7 +105,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 18 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
 Dart          7 hrs 41 mins   █████████████████████▓░░░   86.80 %
 Bash          42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
