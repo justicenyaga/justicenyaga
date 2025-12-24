@@ -105,13 +105,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2025 - To: 22 December 2025
+From: 16 December 2025 - To: 23 December 2025
 
-Dart          7 hrs 19 mins   █████████████████████▓░░░   86.94 %
-Bash          41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-hyprlang      23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Lua           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Image (png)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Dart       1 hr 13 mins    ███████████████████████░░   92.16 %
+hyprlang   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Bash       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
