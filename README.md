@@ -105,11 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-Dart       1 hr 13 mins    ███████████████████████░░   92.16 %
-hyprlang   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Bash       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Lua        1 hr 27 mins    █████████▓░░░░░░░░░░░░░░░   38.61 %
+TOML       1 hr 26 mins    █████████▓░░░░░░░░░░░░░░░   38.17 %
+Other      27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Bash       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Dart       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
