@@ -105,10 +105,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-Bash       4 hrs 39 mins   ████████████░░░░░░░░░░░░░   47.61 %
-Lua        1 hr 59 mins    █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+Bash       4 hrs 39 mins   ████████████░░░░░░░░░░░░░   47.63 %
+Lua        1 hr 59 mins    █████░░░░░░░░░░░░░░░░░░░░   20.40 %
 TOML       1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
 Other      45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
 hyprlang   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
