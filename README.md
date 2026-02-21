@@ -105,13 +105,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Dart         12 hrs 20 mins        █████████████████████▒░░░   84.72 %
-Docker       44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Python       31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-JSON         18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-TypeScript   9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Dart         12 hrs 48 mins        ██████████████████████▓░░   91.31 %
+JSON         18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+TypeScript   9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+CSS          7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Text         6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
